@@ -14,3 +14,8 @@ Assignment-3
 orphanprocess.c
 zombie.c
 multipleprocess.c
+
+Assignment-5
+
+LAB5scope.c
+LAB5Fibonacci.c
