@@ -2,7 +2,7 @@
 Assignment-1
 
 fork_implement.c
-Fibonacci_multithread.c
+Fibonacci_fork.c
 
 Assignment-2
 
