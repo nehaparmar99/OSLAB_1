@@ -23,3 +23,9 @@ Assignment-5
 
 LAB5scope.c
 LAB5Fibonacci.c
+
+Assignment-6
+
+LAB6Race-condition.c
+LAB6Perterson'sAlgo.c
+LAB6Semaphore.c
