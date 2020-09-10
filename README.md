@@ -28,4 +28,5 @@ Assignment-6
 
 LAB6Race-condition.c
 LAB6Perterson'sAlgo.c
-LAB6Semaphore.c
+LAB6BinarySemaphore.c
+LAB6CountingS.c
