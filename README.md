@@ -30,3 +30,8 @@ LAB6Race-condition.c
 LAB6Perterson'sAlgo.c
 LAB6BinarySemaphore.c
 LAB6CountingS.c
+
+Assignment-7
+
+LAB7Producerconsumer.c
+LAB7Readerwriter.c
