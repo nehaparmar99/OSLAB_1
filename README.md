@@ -1,6 +1,6 @@
-Subject Code : CSE 317 <br />
-Subject Coordinator : Prof. Vijay Bhaskar <br />
-Semester : 5th <br />
+<h4>Subject Code : CSE 317 </h4>
+<h4>Subject Coordinator : Prof. Vijay Bhaskar </h4>
+<h4>Semester : 5th </h4>
 
 Assignment-1
 
