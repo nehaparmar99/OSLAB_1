@@ -1,40 +1,40 @@
-Subject Code : CSE 317
-Subject Coordinator : Prof. Vijay Bhaskar
-Semester : 5th
+Subject Code : CSE 317 <br />
+Subject Coordinator : Prof. Vijay Bhaskar <br />
+Semester : 5th <br />
 
 Assignment-1
 
-fork_implement.c
-Fibonacci_fork.c
+fork_implement.c <br />
+Fibonacci_fork.c <br />
 
 Assignment-2
 
-sorts.c
-LAB2_binarytree.c
+sorts.c <br />
+LAB2_binarytree.c <br />
 
 Assignment-3
 
-orphanprocess.c
-zombie.c
-multipleprocess.c
+orphanprocess.c <br />
+zombie.c <br />
+multipleprocess.c <br />
 
 Assignment-5
 
-LAB5scope.c
-LAB5Fibonacci.c
+LAB5scope.c <br />
+LAB5Fibonacci.c <br />
 
 Assignment-6
 
-LAB6Race-condition.c
-LAB6Perterson'sAlgo.c
-LAB6BinarySemaphore.c
-LAB6CountingS.c
+LAB6Race-condition.c <br />
+LAB6Perterson'sAlgo.c <br />
+LAB6BinarySemaphore.c <br />
+LAB6CountingS.c <br />
 
 Assignment-7
 
-LAB7Producerconsumer.c
-LAB7Readerwriter.c
+LAB7Producerconsumer.c <br />
+LAB7Readerwriter.c <br />
 
 Assignment-8
 
-LAB8Diningphilospher.c
+LAB8Diningphilospher.c <br />
