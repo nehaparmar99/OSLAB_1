@@ -1,8 +1,7 @@
-# OSLAB_1
-SEMESTER 5
-SUBJECT CODE-CSE 317
-SUBJECT NAME-OPERATING SYSTEM LAB
-FACULTY NAME-Prof. VIJAY BHASKAR
+Subject Code : CSE 317
+Subject Coordinator : Prof. Vijay Bhaskar
+Semester : 5th
+
 Assignment-1
 
 fork_implement.c
