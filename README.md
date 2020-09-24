@@ -35,3 +35,7 @@ Assignment-7
 
 LAB7Producerconsumer.c
 LAB7Readerwriter.c
+
+Assignment-8
+
+LAB8Diningphilospher.c
