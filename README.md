@@ -42,3 +42,11 @@ LAB8Diningphilospher.c <br />
 Assignment-9
 
 LAB9BankersAlgorithm.cpp <br />
+
+Assignment-10
+
+LAB10 fcfs.c <br />
+LAB10 sjf_nonpremptive.c <br />
+LAB10 sjf_premptive.c <br />
+LAB10 Priority.c <br />
+LAB10 RoundRobin.c <br />
