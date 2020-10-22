@@ -50,3 +50,10 @@ LAB10 sjf_nonpremptive.c <br />
 LAB10 sjf_premptive.c <br />
 LAB10 Priority.c <br />
 LAB10 RoundRobin.c <br />
+
+
+Assignment-11
+
+LAB11 SSTF.c <br />
+LAB11 SCAN.c <br />
+LAB11 C-SCAN.c <br />
